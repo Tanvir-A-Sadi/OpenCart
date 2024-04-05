@@ -1,0 +1,43 @@
+07:05:24.115 [main] INFO  testCases.TC_002_Login - ********** Entering inputs ************
+07:05:24.854 [main] INFO  testCases.TC_002_Login - ********** Clicked continue ************
+07:05:24.854 [main] INFO  testCases.TC_002_Login - ********** Verifying MyAccount page ************
+07:05:25.481 [main] INFO  testCases.TC_002_Login - ********** Clicked logout link ************
+07:05:25.483 [main] INFO  testCases.TC_002_Login - ********** Verifying LogoutPage ************
+07:05:25.992 [main] INFO  testCases.TC_002_Login - ********** Clicked Continue from logout page ************
+07:05:25.993 [main] INFO  testCases.TC_002_Login - ********** Verifying homepage ************
+07:05:26.036 [main] INFO  testCases.TC_002_Login - ********** Ended TC_002_Login ************
+07:05:29.547 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:05:29.547 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:05:30.073 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:05:30.074 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:05:30.883 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:05:30.883 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:05:31.419 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:05:31.419 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:05:31.419 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:05:31.999 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:05:31.999 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:05:32.668 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:05:32.668 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:05:42.754 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:05:42.754 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:05:42.754 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:05:43.355 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:05:43.356 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:05:44.156 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:05:44.156 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:05:54.176 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:05:54.176 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:05:54.176 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:05:54.809 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:05:54.809 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:05:55.589 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:05:55.589 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:06:05.691 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:06:05.691 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:06:05.691 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:06:06.338 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:06:06.338 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:06:07.187 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:06:07.187 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:06:07.897 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************

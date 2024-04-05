@@ -1,0 +1,47 @@
+07:01:24.187 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:01:24.201 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:01:24.754 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:01:24.755 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:01:24.755 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:01:25.308 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:01:25.308 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:01:25.974 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:01:25.974 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:01:35.997 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:01:35.997 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:01:35.997 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:01:36.635 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:01:36.635 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:01:37.414 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:01:37.414 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:01:47.473 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:01:47.473 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:01:47.473 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:01:48.069 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:01:48.069 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:01:48.843 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:01:48.843 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:01:58.923 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:01:58.923 [main] INFO  testCases.TC_003_LoginDDT - ************ Starting TC_003_LoginDDT **************
+07:01:58.923 [main] INFO  testCases.TC_003_LoginDDT - ************ Loading Homepage **************
+07:01:59.533 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked Login from homepage **************
+07:01:59.533 [main] INFO  testCases.TC_003_LoginDDT - ************ Setting up inputs **************
+07:02:00.417 [main] INFO  testCases.TC_003_LoginDDT - ************ Clicked on continue **************
+07:02:00.417 [main] INFO  testCases.TC_003_LoginDDT - ************ Checking MyAccount status **************
+07:02:01.189 [main] INFO  testCases.TC_003_LoginDDT - ************ Test passed **************
+07:05:14.659 [main] INFO  testCases.TC_001_AccountRegistration - ********** Starting TC_001_AccountRegistration ************
+07:05:14.667 [main] INFO  testCases.TC_001_AccountRegistration - ********** Loading Homepage ************
+07:05:15.610 [main] INFO  testCases.TC_001_AccountRegistration - ********** Clicked register from homepage ************
+07:05:15.610 [main] INFO  testCases.TC_001_AccountRegistration - ********** Loading registration page ************
+07:05:15.610 [main] INFO  testCases.TC_001_AccountRegistration - ********** Setting up inputs ************
+07:05:19.139 [main] INFO  testCases.TC_001_AccountRegistration - ********** Done setting up inputs and clicked Continue ************
+07:05:19.139 [main] INFO  testCases.TC_001_AccountRegistration - ********** Verifying Account Creation ************
+07:05:19.745 [main] INFO  testCases.TC_001_AccountRegistration - ********** Clicked Continue ************
+07:05:19.745 [main] INFO  testCases.TC_001_AccountRegistration - ********** Loading MyAccount Page ************
+07:05:20.401 [main] INFO  testCases.TC_001_AccountRegistration - ********** Clicked logout link ************
+07:05:20.980 [main] INFO  testCases.TC_001_AccountRegistration - ********** Clicked continue from logout page ************
+07:05:20.980 [main] INFO  testCases.TC_001_AccountRegistration - ********** Verifying Homepage ************
+07:05:21.019 [main] INFO  testCases.TC_001_AccountRegistration - ********** Ended TC_001_AccountRegistration ************
+07:05:23.288 [main] INFO  testCases.TC_002_Login - ********** Starting TC_002_Login ************
+07:05:23.288 [main] INFO  testCases.TC_002_Login - ********** Loading Homepage ************
+07:05:24.110 [main] INFO  testCases.TC_002_Login - ********** Clicked Login ************
